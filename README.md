@@ -1,5 +1,6 @@
 # javascript-notes
-
+To download 
+git clone https://github.com/mustafashakeel/javascript-notes.git
 
 
 Javascript syntax, definitions, important hints, examples and more...
