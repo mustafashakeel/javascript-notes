@@ -8,8 +8,8 @@ Javascript syntax, definitions, important hints, examples and more...
 This tutorial has been compiled from variety of sources throughout the Web, articles, books and videos. Learn in more details at Mozilla Developer Network.
 Other useful references:
 
-JavaScript: The Good Parts
-JavaScript Cookbook
+JavaScript: The Good Parts <br/>
+JavaScript Cookbook<br/>
 JavaScript Pocket Reference
 Mastering Javascript
 envato tuts+
