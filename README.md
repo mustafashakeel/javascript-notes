@@ -10,26 +10,26 @@ Other useful references:
 
 JavaScript: The Good Parts <br/>
 JavaScript Cookbook<br/>
-JavaScript Pocket Reference
-Mastering Javascript
-envato tuts+
+JavaScript Pocket Reference<br/>
+Mastering Javascript<br/>
+envato tuts+<br/>
 Topics:
 
 Part I 'The Concepts'
 
-Numbers and Math
-Strings
-Type Conversion
-Date and Time
-Expressions
-Operators
-Statements
-Control statements
-Functions
-Closures
-Arrays
-Objects
-classes
-Window Objects
-Networking
-Storage
+Numbers and Math<br/>
+Strings<br/>
+Type Conversion<br/>
+Date and Time<br/>
+Expressions<br/>
+Operators<br/>
+Statements<br/>
+Control statements<br/>
+Functions<br/>
+Closures<br/>
+Arrays<br/>
+Objects<br/>
+classes<br/>
+Window Objects<br/>
+Networking<br/>
+Storage<br/>
